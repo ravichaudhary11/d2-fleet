@@ -17,6 +17,7 @@ spec:
       data:
         sources: >-
           https://github.com/controlplaneio-fluxcd/
+          https://github.com/ravichaudhary11/
           oci://ghcr.io/controlplaneio-fluxcd/
           oci://ghcr.io/ravichaudhary11/
           oci://ghcr.io/stefanprodan/charts/
