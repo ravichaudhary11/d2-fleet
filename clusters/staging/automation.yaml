@@ -103,8 +103,8 @@ spec:
               branch: main
           commit:
             author:
-              email: controlplaneio-fluxcd-bot@users.noreply.github.com
-              name: controlplaneio-fluxcd-bot
+              email: ravichaudhary.k@gmail.com
+              name: ravichaudhary11
             messageTemplate: |
               Automated image update
 
