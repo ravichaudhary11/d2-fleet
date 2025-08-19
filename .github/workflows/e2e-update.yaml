@@ -3,7 +3,7 @@ name: e2e-update
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 8 * * 1
+    - cron: 5 * * * *
 
 jobs:
   image-update:
